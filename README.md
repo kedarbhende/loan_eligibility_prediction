@@ -10,14 +10,14 @@ Data used:
 2)loan_sanction_test.csv
 
 Input Parameters (Features)
-1)The model uses the following features to determine loan eligibility:
-2)Gender – Male / Female
-3)Marital Status – Married / Unmarried
-4)Education – Graduate / Non-Graduate
-5)Number of Dependents – Count of dependents supported by applicant
-6)Applicant Income – Primary applicant’s income
-7)Co-applicant Income – Secondary income (if any)
-8)Loan Amount – Total loan amount requested
-9)Loan Term – Duration of loan repayment period
-10)Credit History – Past loan repayment behavior
-11)Property Area – Type of area (Urban / Semi-Urban / Rural)
+The model uses the following features to determine loan eligibility:
+1)Gender – Male / Female
+2)Marital Status – Married / Unmarried
+3)Education – Graduate / Non-Graduate
+4)Number of Dependents – Count of dependents supported by applicant
+5)Applicant Income – Primary applicant’s income
+6)Co-applicant Income – Secondary income (if any)
+7)Loan Amount – Total loan amount requested
+8)Loan Term – Duration of loan repayment period
+9)Credit History – Past loan repayment behavior
+10)Property Area – Type of area (Urban / Semi-Urban / Rural)
